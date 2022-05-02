@@ -13,7 +13,7 @@ var equipe = new Schema({
         type: String
     },
     angAno:{
-        type: int
+        type: String
     },
 
     angAoriginalName:{
@@ -30,7 +30,7 @@ var equipe = new Schema({
         type: String
     },
     wellAno:{
-        type: int
+        type: String
     },
     welloriginalName:{
         type: String
@@ -46,7 +46,7 @@ var equipe = new Schema({
         type: String
     },
     penhaAno:{
-        type: int
+        type: String
     },
     penhaoriginalName:{
         type: String
@@ -62,7 +62,7 @@ var equipe = new Schema({
         type: String
     },
     patAno:{
-        type: int
+        type: String
     },
     patoriginalName:{
         type: String
@@ -78,7 +78,7 @@ var equipe = new Schema({
         type: String
     },
     eduAno:{
-        type: int
+        type: String
     },
     eduoriginalName:{
         type: String
@@ -94,7 +94,7 @@ var equipe = new Schema({
         type: String
     },
     palmerAno:{
-        type: int
+        type: String
     },
     paloriginalName:{
         type: String
@@ -110,7 +110,7 @@ var equipe = new Schema({
         type: String
     },
     saAno:{
-        type: int
+        type: String
     },
     saoriginalName:{
         type: String
@@ -126,7 +126,7 @@ var equipe = new Schema({
         type: String
     },
     jefAno:{
-        type: int
+        type: String
     },
     jeforiginalName:{
         type: String
@@ -142,7 +142,7 @@ var equipe = new Schema({
         type: String
     },
     ageuAno:{
-        type: int
+        type: String
     },
     ageuoriginalName:{
         type: String
@@ -158,7 +158,7 @@ var equipe = new Schema({
         type: String
     },
     rafaAno:{
-        type: int
+        type: String
     },
     rafaoriginalName:{
         type: String
@@ -174,7 +174,7 @@ var equipe = new Schema({
         type: String
     },
     joaoAno:{
-        type: int
+        type: String
     },
     joaooriginalName:{
         type: String
@@ -190,7 +190,7 @@ var equipe = new Schema({
         type: String
     },
     mathAno:{
-        type: int
+        type: String
     },
     mathoriginalName:{
         type: String
